@@ -1,11 +1,10 @@
-Project 0 for CMP SCI 2250
-1/26/18
+Project 2 for CMP SCI 2250 at University of Missouri Saint Louis 1/26/18 by Bryan Fisk
 
 Project stipulations: 
 
 In this project you will be tasked with writing a program to play a guessing game between another player and your program. Your program will start by initializing an array to 5 fixed values in the ranges of 1-1000 in the array. These values should also be in order (sorted).
 
-Your program will then begin by asking the player to make a guess from 1-1000. For the first guess of the user, your program will only tell the player if they guessed correctly or not. However, the program will keep track of how close they are to the closest element in the array. The program will then go into a loop, asking the player for a new guess each time. If at any time, their new guess is farther away from the closest number than their previous guess, the program will respond with ìGetting colder!î. If they get closer to a correct guess, the program should respond with ìGetting warmer!î. This should continue until the player guesses one of the numbers in the list. Your program should then output ìSuccess!î and then end.
+Your program will then begin by asking the player to make a guess from 1-1000. For the first guess of the user, your program will only tell the player if they guessed correctly or not. However, the program will keep track of how close they are to the closest element in the array. The program will then go into a loop, asking the player for a new guess each time. If at any time, their new guess is farther away from the closest number than their previous guess, the program will respond with ‚ÄúGetting colder!‚Äù. If they get closer to a correct guess, the program should respond with ‚ÄúGetting warmer!‚Äù. This should continue until the player guesses one of the numbers in the list. Your program should then output ‚ÄúSuccess!‚Äù and then end.
 
 Example:
 
